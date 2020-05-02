@@ -5,7 +5,7 @@ let events = [];
 let eventElements = [];
 
 //Nær í gögnin fyrir viðburðina á githubinu mínu
-fetch('https://raw.githubusercontent.com/MikaelAndriIngason/FORR3JS05DU-Verkefni-4/master/gogn.json')
+fetch('https://raw.githubusercontent.com/MikaelAndriIngason/FORR3JS05DU-Verkefni-4/master/docs/gogn.json')
   .then(
     function(response) {
       if (response.status !== 200) { //Ef það varð villa
