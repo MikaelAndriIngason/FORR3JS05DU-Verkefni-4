@@ -4,21 +4,21 @@
       "eventDateName": "Vínartónleikar 2015",
       "dateOfShow": "2015-01-08T19:30:00",
       "eventLocation": "Harpa: Eldborg",
-      "price": "2,998",
+      "price": 2.998,
       "imageSource": "https://blogmedia.evbstatic.com/wp-content/uploads/wpmulti/sites/8/2019/10/How-to-organise-music-concert.jpg"
     },
     {
       "eventDateName": "Föstudagsfreistingar 09.01",
       "dateOfShow": "2015-01-09T12:00:00",
       "eventLocation": "Hamrar",
-      "price": "998",
+      "price": 998,
       "imageSource": "https://img.theculturetrip.com/x/smart/wp-content/uploads/2019/11/gettyimages-1125707333.jpg"
     },
     {
       "eventDateName": "Sumarhátíð",
       "dateOfShow": "2015-01-09T12:00:00",
       "eventLocation": "Laugarvegurinn",
-      "price": "100",
+      "price": 100,
       "imageSource": "https://photos1.blogger.com/img/217/6214/640/17%20jn%202005%20013.jpg"
     }
   ]
