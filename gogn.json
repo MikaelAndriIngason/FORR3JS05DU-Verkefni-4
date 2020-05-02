@@ -20,6 +20,13 @@
       "eventLocation": "Laugarvegurinn",
       "price": 100,
       "imageSource": "https://photos1.blogger.com/img/217/6214/640/17%20jn%202005%20013.jpg"
+    },
+    {
+      "eventDateName": "Leikrit",
+      "dateOfShow": "2020-01-09T12:00:00",
+      "eventLocation": "Þjóðleikhúsið",
+      "price": 5.998,
+      "imageSource": "https://www.leikhusid.is/media/dagbok/eventban-intro/leikhusid-i-solskini.jpg"
     }
   ]
 }
