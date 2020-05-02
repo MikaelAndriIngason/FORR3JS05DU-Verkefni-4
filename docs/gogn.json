@@ -1,0 +1,88 @@
+{
+  "results": [
+    {
+      "eventDateName": "Vínartónleikar 2020",
+      "dateOfShow": "2020-01-08T19:30:00",
+      "eventLocation": "Harpa: Eldborg",
+      "price": 2998,
+      "imageSource": "https://blogmedia.evbstatic.com/wp-content/uploads/wpmulti/sites/8/2019/10/How-to-organise-music-concert.jpg"
+    },
+    {
+      "eventDateName": "Föstudagsfreistingar 09.01",
+      "dateOfShow": "2020-06-25T12:00:00",
+      "eventLocation": "Hamrar",
+      "price": 998,
+      "imageSource": "https://img.theculturetrip.com/x/smart/wp-content/uploads/2019/11/gettyimages-1125707333.jpg"
+    },
+    {
+      "eventDateName": "Sumarhátíð",
+      "dateOfShow": "2020-06-01T08:00:00",
+      "eventLocation": "Laugarvegurinn",
+      "price": 100,
+      "imageSource": "https://photos1.blogger.com/img/217/6214/640/17%20jn%202005%20013.jpg"
+    },
+    {
+      "eventDateName": "Leikrit",
+      "dateOfShow": "2020-06-12T13:00:00",
+      "eventLocation": "Þjóðleikhúsið",
+      "price": 5998,
+      "imageSource": "https://www.leikhusid.is/media/dagbok/eventban-intro/leikhusid-i-solskini.jpg"
+    },
+    {
+      "eventDateName": "17. Júní!",
+      "dateOfShow": "2020-06-17T00:00:00",
+      "eventLocation": "Allt Ísland",
+      "price": 0,
+      "imageSource": "https://www.17juni.is/sites/default/files/styles/large/public/field/image/morgunathofn.jpg?itok=jNAYrp7J"
+    },
+    {
+      "eventDateName": "Dansball",
+      "dateOfShow": "2020-06-21T21:00:00",
+      "eventLocation": "Egilshöllinn",
+      "price": 2500,
+      "imageSource": "https://i.pinimg.com/originals/36/72/b6/3672b60ffe6c2f969f287ede93e9af03.jpg"
+    },
+    {
+      "eventDateName": "Bingó",
+      "dateOfShow": "2020-07-01T15:35:00",
+      "eventLocation": "Tækniskólinn",
+      "price": 1000,
+      "imageSource": "https://image1.masterfile.com/getImage/NjczLTAyMTM5MDQxZW4uMDAwMDAwMDA=AMq6CZ/673-02139041en_Masterfile.jpg"
+    },
+    {
+      "eventDateName": "Hjólreiðatúr með Guðna Th",
+      "dateOfShow": "2020-08-12T12:30:00",
+      "eventLocation": "Nauthólsvík",
+      "price": 499,
+      "imageSource": "https://pbs.twimg.com/media/DKWRTVEW4AAW7pq.jpg:large"
+    },
+    {
+      "eventDateName": "Trúðaganga",
+      "dateOfShow": "2020-08-15T15:00:00",
+      "eventLocation": "Laugavegurinn",
+      "price": 0,
+      "imageSource": "https://www.bubu.cx/wp-content/uploads/2019/10/clown-parade.jpg"
+    },
+    {
+      "eventDateName": "Leikrit",
+      "dateOfShow": "2020-08-16T21:30:00",
+      "eventLocation": "Þjóðleikhúsið",
+      "price": 7998,
+      "imageSource": "https://www.leikhusid.is/media/dagbok/eventban-intro/leikhusid-i-solskini.jpg"
+    },
+    {
+      "eventDateName": "Bókalestur",
+      "dateOfShow": "2020-09-05T11:00:00",
+      "eventLocation": "Háskóli Íslands",
+      "price": 998,
+      "imageSource": "https://previews.123rf.com/images/mangostar/mangostar1810/mangostar181001204/110308629-focused-guy-reading-book-on-sofa-in-lobby-young-man-studying-education-and-literature-concept-.jpg"
+    },
+    {
+      "eventDateName": "Setjast í stól Guðna Th",
+      "dateOfShow": "2020-12-24T18:00:00",
+      "eventLocation": "Bessastaðir",
+      "price": 10000,
+      "imageSource": "https://m2.mbl.is/FmKY-7xW0XMRTk9LS-hSNC7VslU=/1640x1093/smart/frimg/1/3/0/1030072.jpg"
+    }
+  ]
+}
