@@ -1,0 +1,93 @@
+html {
+  overflow-y: scroll;
+}
+body{
+	font-family: Arial, Helvetica, sans-serif;
+	max-width: 100%;
+	background: #f0f0f0;
+}
+.main{
+	background: white;
+  	padding: 2em;
+  	width: auto;
+}
+/*Þessi twö breyta bara útliti texta of dagatals inputinu*/
+input[type=text], select {
+  width: 100%;
+  padding: 12px;
+  margin: 8px 0;
+  display: inline-block;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+}
+input[type=date], select {
+  width: 100%;
+  padding: 12px;
+  margin: 8px 0;
+  display: inline-block;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+}
+.event img{
+	height: 110px;
+	width: 110px;
+	grid-area: image;
+}
+/*Grid config*/
+.event h2        { grid-area: title; font-size: 100%}
+.event .date     { grid-area: date;  }
+.event .location { grid-area: loc;   }
+.event .price    { grid-area: price; }
+
+/*Raðar viðburðinum upp í grid*/
+.event{
+	width: 100%;
+	margin-bottom: 0.5em;
+	background-color: #f7f7f7;
+	border-radius: 5px;
+	border: solid #d6d6d6 1px;
+	height: 110px;
+
+	display: grid;
+  	grid-template-columns: 120px auto;
+  	grid-template-rows: 25px 20px 20px 20px;
+  	grid-template-areas:
+	    'image title'
+	    'image loc'
+	    'image date'
+	    'image price';
+}
+.rangeslider{
+	width: 93%;
+	margin: 15px;
+}
+.hidden{ display: none; }
+
+/* Fyrir stærri skjá */
+@media screen and (min-width: 48em){
+
+	body{
+		max-width: 50em;
+    	margin: 0em auto 0em auto;
+	}
+    .rangeslider{
+		width: 96%;
+	}
+	.event img{
+		height: 100px;
+		width: 100px;
+		grid-area: image;
+	}
+	.event{
+		height: 100px;
+
+	  	grid-template-columns: 120px 200px 300px auto;
+	  	grid-template-rows: 50px 50px;
+	  	grid-template-areas:
+		    'image title title title'
+		    'image loc   date  price';
+	}
+	.event h2 { font-size: large;}
+}

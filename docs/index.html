@@ -1,0 +1,41 @@
+<!doctype html>
+
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <link rel="stylesheet" type="text/css" href="style.css">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link href="nouislider.css" rel="stylesheet">
+  <title>Verkefni 4 - Mikael</title>
+</head>
+
+<body>
+	<!--Hleður inn skriptum-->
+	<script src="nouislider.js"></script>
+	<script src="moment-with-locales.js"></script>
+	
+	<div class="main">
+		<h1>Viðburðir á Íslandi</h1>
+		
+		<hr><br><b>Leita</b>
+		<input type="text" id="search" onkeyup="FilterEvents()" placeholder="Leita af vitburði"><br>
+
+		<hr><br><b>Dagsetning</b><br><br>
+	    Frá	<input type="date" id="startdate" min="2020-01-01" onchange="FilterEvents();">
+		Til <input type="date" id="enddate" min="2020-01-01" onchange="FilterEvents();" value="2020-12-31">
+
+		<hr><br><b>Verð</b>
+		<div id="slider" class="rangeslider"></div><br>
+		
+		<!--Hér koma inn allir viðburðinir-->
+		<hr><br>
+		<div id="list" class="list"></div>
+
+
+		<footer style="text-align: center; padding: 1em; color: gray;">Mikael Andri ingason<br>Tækniskólinn - 2020 - FORR3JS05DU</footer>
+	</div>
+
+	<script src="script.js"></script>
+</body>
+
+</html>
